@@ -16,7 +16,7 @@
 		"react-dom": "^18.2.0"
 	},
 	"devDependencies": {
-		"@kubernetes/client-node": "^0.17.1",
+		"@kubernetes/client-node": "^1.4.0",
 		"@types/node": "^18.7.18",
 		"@types/vscode-webview": "^1.57.0",
 		"eslint": "^8.23.1",
